@@ -1,2 +1,5 @@
-# drl_course
-Uni Osnabrück Course on Deep Reinforcement Learning
+# Deep Reinforcement Learning
+Block-course on Deep Reinforcement Learning at Osnabrück University, Spring 2021
+
+# Setup
+To setup the conda environment, just run ./setup.sh.
